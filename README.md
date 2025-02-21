@@ -29,4 +29,9 @@ Data enthusiast with 5+ years of experience in structuring and making data acces
   </a>
 </p>
 
-![GitHub Snake](https://github.com/gabrieljamami/gabrieljamami/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieljamami/gabrieljamami/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrieljamami/gabrieljamami/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gabrieljamami/gabrieljamami/output/github-snake.svg" />
+</picture>
+
